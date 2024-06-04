@@ -1,4 +1,4 @@
-# Full Name 
+# Amal Prasad 
 
 ### About Me
 
