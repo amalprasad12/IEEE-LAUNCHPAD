@@ -2,7 +2,8 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Aspiring Python Full Stack Developer with a solid understanding of Django and Flask frameworks. Proficient in front-end technologies (HTML, CSS) 
+and eager to learn JavaScript libraries like React and Vue.js. Familiar with MySQL and PostgreSQL databases.Committed to continuous learning and innovation. Excited to contribute to dynamic teams and drive business success with fresh perspectives and enthusiasm.
 
 
 ## Portfolio Highlights
